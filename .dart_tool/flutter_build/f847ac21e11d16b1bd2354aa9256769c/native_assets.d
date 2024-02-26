@@ -1,0 +1,1 @@
+ D:\\vedanta_app\\.dart_tool\\flutter_build\\f847ac21e11d16b1bd2354aa9256769c\\native_assets.yaml: 
